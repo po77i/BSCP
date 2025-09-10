@@ -1,3 +1,4 @@
+On this lab we need a double click. For that reason we use two bottom
 ```html
 <style>
     iframe {
